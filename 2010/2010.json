@@ -1,0 +1,1711 @@
+[
+  {
+    "id": "CVE-2010-3826",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3824",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3823",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3822",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3821",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3820",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3819",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3818",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3817",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3816",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3813",
+    "bugzilla": [],
+    "impacts": [
+      "WebKit may perform DNS prefetching even when it is disabled"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/0b7fae06c6aafa8c3e5758f6155c8f9c3223b71a"
+    ],
+    "references": [
+      "https://bugs.webkit.org/show_bug.cgi?id=42500",
+      "https://trac.webkit.org/changeset/63622"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3812",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://bugs.webkit.org/show_bug.cgi?id=46848",
+      "https://trac.webkit.org/changeset/68705",
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-257/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3811",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3810",
+    "bugzilla": [],
+    "impacts": [
+      "A maliciously crafted website may be able to spoof the address in the location bar or add arbitrary locations to the history"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3809",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3808",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3805",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3804",
+    "bugzilla": [],
+    "impacts": [
+      "Websites may surreptitiously track users"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3803",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3259",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious website may lead to the disclosure of image data from another website"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3257",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3116",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1822",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/916895d1a5b952407d3d7f411b0d2617544d754f"
+    ],
+    "references": [
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=55114",
+      "https://bugs.webkit.org/show_bug.cgi?id=45562"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1815",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1814",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1813",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1812",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1807",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://trac.webkit.org/changeset/64706"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1806",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-170/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1793",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1791",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1789",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.2",
+        "date": "2010-11-22",
+        "advisory": "https://support.apple.com/en-us/103588"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1788",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1787",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-153/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1786",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-141/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1785",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-142/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1784",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-144/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1783",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1782",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1781",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1780",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1774",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1771",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1770",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-093/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1769",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1764",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a website that redirects form submissions may lead to an information disclosure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1762",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1761",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1759",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1758",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1757",
+    "bugzilla": [],
+    "impacts": [
+      "Websites with embedded iframe elements may be vulnerable to user interface spoofing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1422",
+    "bugzilla": [],
+    "impacts": [
+      "Interacting with a maliciously crafted website may result in unexpected actions on other sites"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1421",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may change the contents of the clipboard"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.1",
+        "date": "2010-09-08",
+        "advisory": "https://support.apple.com/en-us/103587"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1418",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1417",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1416",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may disclose images from other sites"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1415",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1414",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1413",
+    "bugzilla": [],
+    "impacts": [
+      "A user's NTLM credentials may be exposed to a man in the middle attacker"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1410",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1409",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may allow remotely specified data to be sent to an IRC server"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1408",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in sending remotely specified data to arbitrary TCP ports"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1407",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in an information disclosure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1406",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting an HTTPS site which redirects to an HTTP site may lead to an information disclosure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1405",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1404",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-096/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1403",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-099/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1402",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-100/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1401",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-098/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1400",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1399",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-094/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1398",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-097/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1397",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-095/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1396",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-092/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1395",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious site may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1394",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1393",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an information disclosure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1392",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-154/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1391",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may cause files to be created in arbitrary user-writable locations"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1390",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a website using UTF-7 encoding may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1389",
+    "bugzilla": [],
+    "impacts": [
+      "Dragging or pasting a selection may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1387",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1119",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-091/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0544",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0054",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0053",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-030/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0052",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0051",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to the disclosure of sensitive information"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0050",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-031/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0049",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-152/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0048",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-146/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0047",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-10-029/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0046",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3384",
+    "bugzilla": [],
+    "impacts": [
+      "Accessing a maliciously crafted FTP server could result in an unexpected application termination, information disclosure, or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.1.3",
+        "date": "2010-02-02",
+        "advisory": "https://support.apple.com/en-us/104157"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2841",
+    "bugzilla": [],
+    "impacts": [
+      "Mail may load remote audio and video content when remote image loading is disabled"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://trac.webkit.org/changeset/49480"
+    ],
+    "releases": [
+      {
+        "name": "iOS 3.1.3",
+        "date": "2010-02-02",
+        "advisory": "https://support.apple.com/en-us/104157"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2816",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in unexpected actions on other websites"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2195",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 4.0",
+        "date": "2010-06-21",
+        "advisory": "https://support.apple.com/en-us/104167"
+      }
+    ]
+  }
+]

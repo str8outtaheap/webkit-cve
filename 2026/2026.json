@@ -1,0 +1,2243 @@
+[
+  {
+    "id": "CVE-2026-65351",
+    "bugzilla": [
+      "321517"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65341",
+    "bugzilla": [
+      "318405"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65340",
+    "bugzilla": [
+      "316996"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65338",
+    "bugzilla": [
+      "318348"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65337",
+    "bugzilla": [
+      "317142"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65336",
+    "bugzilla": [
+      "317349"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65335",
+    "bugzilla": [
+      "316723"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65334",
+    "bugzilla": [
+      "316791"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9f07374e9eb2398ebf629352f5fc0a509ae631b8"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65333",
+    "bugzilla": [
+      "317603"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65332",
+    "bugzilla": [
+      "317450"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65331",
+    "bugzilla": [
+      "317611"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64787",
+    "bugzilla": [
+      "313703"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/cb83583e5f4d955355574006a1bebf4b98a42a5d"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64784",
+    "bugzilla": [
+      "317632"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/97df94ead028cddcfc21e48ec6f2f72d25ec1662"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64783",
+    "bugzilla": [
+      "313521"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64782",
+    "bugzilla": [
+      "321480"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64781",
+    "bugzilla": [
+      "321484"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64780",
+    "bugzilla": [
+      "316918"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64757",
+    "bugzilla": [
+      "315082"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/72272dcc4feb84122a18d38b2ef1af99c0bf01d1"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128066"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64730",
+    "bugzilla": [
+      "311660"
+    ],
+    "impacts": [
+      "Visiting a website that frames malicious content may lead to UI spoofing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64728",
+    "bugzilla": [
+      "313220"
+    ],
+    "impacts": [
+      "Maliciously crafted web content may violate iframe sandboxing policy"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64715",
+    "bugzilla": [
+      "316347"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64713",
+    "bugzilla": [
+      "316827"
+    ],
+    "impacts": [
+      "Websites may know if the user has visited a given link"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/52cacff4c9e7d9ebc9e1a3be8519e81cb869c246"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43821",
+    "bugzilla": [
+      "314867"
+    ],
+    "impacts": [
+      "An app may be able to read files outside of its sandbox"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/74d0c628ff2d82e9dfcc57cfc3e6e1f361e9b521"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43804",
+    "bugzilla": [
+      "316816"
+    ],
+    "impacts": [
+      "Visiting a website may lead to an app denial-of-service"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43795",
+    "bugzilla": [
+      "313452"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43794",
+    "bugzilla": [
+      "317317"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43745",
+    "bugzilla": [
+      "315365"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/0f0de8f2a05829881df46dc2ac7e2799da0696ce"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43742",
+    "bugzilla": [
+      "313693",
+      "315161"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/034f2fbd9b69edba4969f7f336283e8ce3d8e09f"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43740",
+    "bugzilla": [
+      "308046"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may result in the disclosure of process memory"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/2693828e8d7300d8f20c194af1a260163044b13a"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43735",
+    "bugzilla": [
+      "313357"
+    ],
+    "impacts": [
+      "A malicious website may exfiltrate data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43734",
+    "bugzilla": [
+      "313693"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43732",
+    "bugzilla": [
+      "313085"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may disclose sensitive user information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/5be1236842b36137c9c9c85453a872e029dc6b8a"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43731",
+    "bugzilla": [
+      "314115"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/866892a3052f6739cffd35175d93b0d238091b29"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43727",
+    "bugzilla": [
+      "313691"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c5036aadbde48318a52ffe639cb603aaeea8cce7"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43726",
+    "bugzilla": [
+      "313693",
+      "313857"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/a7e4fdb9545042aef190cd469efb633e442fb43c"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43725",
+    "bugzilla": [
+      "312832"
+    ],
+    "impacts": [
+      "A malicious website may be able to process restricted web content outside the sandbox"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ccf0c4874cb25ab1fac973a60d6f291bc204a44a"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43716",
+    "bugzilla": [
+      "313473"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/a012babd4f1611a4adb3b886d1c7ebb0360c1b54"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43715",
+    "bugzilla": [
+      "314115"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43713",
+    "bugzilla": [
+      "314806"
+    ],
+    "impacts": [
+      "Visiting a website may leak sensitive data"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/73645abad282e4903019e36d01c753145fd79a14"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43712",
+    "bugzilla": [
+      "312781"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43709",
+    "bugzilla": [
+      "313693"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43708",
+    "bugzilla": [
+      "315306"
+    ],
+    "impacts": [
+      "A malicious website may exfiltrate data cross-origin"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/971435fdd3868e7fe45ec6ce8386e93766de1266"
+    ],
+    "references": [
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43707",
+    "bugzilla": [
+      "315951"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43705",
+    "bugzilla": [
+      "314528"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/8fd92b1021d310b2580eb3ac7913911eb14dc476"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43701",
+    "bugzilla": [
+      "315004"
+    ],
+    "impacts": [
+      "A malicious website may be able to process restricted web content outside the sandbox"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f23ffb5a845006c8efbdf8a18a15f69a617fec00"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43700",
+    "bugzilla": [
+      "315368"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may disclose sensitive user information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/67b563b85f480c701685499724961248236b2915"
+    ],
+    "references": [
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43699",
+    "bugzilla": [
+      "313693",
+      "317227"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43676",
+    "bugzilla": [
+      "317231"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43663",
+    "bugzilla": [
+      "312781"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/13bfbf94f49eab45ea7bf22c2c02759bf911bc11"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43660",
+    "bugzilla": [
+      "308906"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may prevent Content Security Policy from being enforced"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f8ed382fb244cc24f40767858ae369267075bd9a"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43658",
+    "bugzilla": [
+      "307669"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9a16de46f205d3c76cc16f12dca3df02705791c3"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-39872",
+    "bugzilla": [
+      "312781",
+      "313528"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/8912cf5b00c44e5c81ba047c9b3ec32f4135d437"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0004.html",
+      "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28984",
+    "bugzilla": [
+      "311883"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/eba64ef44de395091d66bdfdf1c2b1f0f4983c56"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28971",
+    "bugzilla": [
+      "311288"
+    ],
+    "impacts": [
+      "A malicious iframe may use another website’s download settings"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/4b574bf8287b6b5783596850d8a17f300b75a7a2"
+    ],
+    "references": [
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28962",
+    "bugzilla": [
+      "309698"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may disclose sensitive user information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c6cd4e07e9afcb0f5a8dc696182822e21fafd913"
+    ],
+    "references": [
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28958",
+    "bugzilla": [
+      "311228"
+    ],
+    "impacts": [
+      "An app may be able to access sensitive user data"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/093f34607a3e8c6bdf6fbe178a68ca96ecc067c6"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28955",
+    "bugzilla": [
+      "308545",
+      "308707"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
+      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review",
+      "https://www.zerodayinitiative.com/advisories/ZDI-26-312/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28953",
+    "bugzilla": [
+      "308545",
+      "308707"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
+      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28947",
+    "bugzilla": [
+      "310234"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/76b34686210f4f6779053590e7b9cfb1eadf6a15"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28942",
+    "bugzilla": [
+      "310234"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/76b34686210f4f6779053590e7b9cfb1eadf6a15"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28917",
+    "bugzilla": [
+      "310527"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28913",
+    "bugzilla": [
+      "308545"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+    ],
+    "references": [
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28907",
+    "bugzilla": [
+      "308675"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may prevent Content Security Policy from being enforced"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9a19d07c4f53bdf52a375aa4adcdd2edaeb80e28"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28905",
+    "bugzilla": [
+      "308545"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28904",
+    "bugzilla": [
+      "308545",
+      "308707"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
+      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28903",
+    "bugzilla": [
+      "308545",
+      "308707"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
+      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28902",
+    "bugzilla": [
+      "308545"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28901",
+    "bugzilla": [
+      "308545"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28883",
+    "bugzilla": [
+      "313939"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28871",
+    "bugzilla": [
+      "305859"
+    ],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ee94245e338ecf6ac4ad7a166dd219cb1fbaad98"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126793"
+      },
+      {
+        "name": "iOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      },
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-04-01",
+        "advisory": "https://support.apple.com/en-us/126793"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28861",
+    "bugzilla": [
+      "307014"
+    ],
+    "impacts": [
+      "A malicious website may be able to access script message handlers intended for other origins"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c4006ba4ad2ab4dcf24ed7462f767098770e4193"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126793"
+      },
+      {
+        "name": "iOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      },
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-04-01",
+        "advisory": "https://support.apple.com/en-us/126793"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28859",
+    "bugzilla": [
+      "308248"
+    ],
+    "impacts": [
+      "A malicious website may be able to process restricted web content outside the sandbox"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/035f36c175f999a1470ba884dbac9361010b7997"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28857",
+    "bugzilla": [
+      "306136"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/6b357f32c6075bb807f52fd6cf4a68fe0ba38256"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28847",
+    "bugzilla": [
+      "308545",
+      "308707"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
+      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0003.html",
+      "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review",
+      "https://www.zerodayinitiative.com/advisories/ZDI-26-313/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20676",
+    "bugzilla": [
+      "305020"
+    ],
+    "impacts": [
+      "A website may be able to track users through Safari web extensions"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/0f4832ce0eea25afb61eb7f80f57f072b33c7aba"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.3",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126346"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20665",
+    "bugzilla": [
+      "304951"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may prevent Content Security Policy from being enforced"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ffc8c894635c9efd5e3d5e5446af9e3aefe56051"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126793"
+      },
+      {
+        "name": "iOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      },
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-04-01",
+        "advisory": "https://support.apple.com/en-us/126793"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20664",
+    "bugzilla": [
+      "306136"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/59c4a7a31ef67187e3a3f7710d06da0e32c0eac5"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20652",
+    "bugzilla": [
+      "303959"
+    ],
+    "impacts": [
+      "A remote attacker may be able to cause a denial-of-service"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/7afdc436a98c9771c5eb23a00db3211b7dcb3575"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.5",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126347"
+      },
+      {
+        "name": "iOS 26.3",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126346"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20644",
+    "bugzilla": [
+      "303444"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/4572dd488e4eb6e056e7734b9738bb4cb4b0dab0"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.5",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126347"
+      },
+      {
+        "name": "iOS 26.3",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126346"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20643",
+    "bugzilla": [
+      "306050"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may bypass Same Origin Policy"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/67e3366c7a2c378187f0625afbb54f893cf676cf"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.3.1-a",
+        "date": "2026-03-17",
+        "advisory": "https://support.apple.com/en-us/126604"
+      },
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126793"
+      },
+      {
+        "name": "iOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      },
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-04-01",
+        "advisory": "https://support.apple.com/en-us/126793"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20636",
+    "bugzilla": [
+      "303444"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/4572dd488e4eb6e056e7734b9738bb4cb4b0dab0"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 26.3",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126346"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20635",
+    "bugzilla": [
+      "303444"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/4572dd488e4eb6e056e7734b9738bb4cb4b0dab0"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.5",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126347"
+      },
+      {
+        "name": "iOS 26.3",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126346"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20608",
+    "bugzilla": [
+      "303357"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/672cdd38781cce183724930a1d2e31ca4dc2008d"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.7.5",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126347"
+      },
+      {
+        "name": "iOS 26.3",
+        "date": "2026-02-11",
+        "advisory": "https://support.apple.com/en-us/126346"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2025-43376",
+    "bugzilla": [
+      "295943"
+    ],
+    "impacts": [
+      "A remote attacker may be able to view leaked DNS queries with Private Relay turned on"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/5247bc4ad4b98d165cf77cb9a01ef587185b76eb"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126793"
+      },
+      {
+        "name": "iOS 18.7.7",
+        "date": "2026-04-01",
+        "advisory": "https://support.apple.com/en-us/126793"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23222",
+    "bugzilla": [
+      "267134"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. This fix associated with the Coruna exploit was shipped in iOS 17.3 on January 22, 2024. This update brings that fix to devices that cannot update to the latest iOS version."
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/64714692967ad278155fcae66c5cb0f853b3bf34"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.8.7",
+        "date": "2026-03-11",
+        "advisory": "https://support.apple.com/en-us/126632"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-43010",
+    "bugzilla": [
+      "260913"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption. This fix associated with the Coruna exploit was shipped in iOS 17.2 on December 11th, 2023. This update brings that fix to devices that cannot update to the latest iOS version."
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/78ca85d1db78101d75e8500282808226b695a1e7"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.8.7",
+        "date": "2026-03-11",
+        "advisory": "https://support.apple.com/en-us/126632"
+      },
+      {
+        "name": "iOS 16.7.15",
+        "date": "2026-03-11",
+        "advisory": "https://support.apple.com/en-us/126646"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-43000",
+    "bugzilla": [
+      "255951"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption. This fix associated with the Coruna exploit was shipped in iOS 16.6 on July 24, 2023. This update brings that fix to devices that cannot update to the latest iOS version."
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/929c0df4fd46d057005e2f6c953838dc2bad4b4d"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.8.7",
+        "date": "2026-03-11",
+        "advisory": "https://support.apple.com/en-us/126632"
+      }
+    ]
+  }
+]

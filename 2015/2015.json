@@ -1,0 +1,2338 @@
+[
+  {
+    "id": "CVE-2015-7104",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7103",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7102",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7101",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7100",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7099",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7098",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7097",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7096",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7095",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7050",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may reveal a user's browsing history"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7048",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://webkitgtk.org/security/WSA-2016-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.2",
+        "date": "2015-12-08",
+        "advisory": "https://support.apple.com/en-us/103661"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7014",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7012",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7005",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-7002",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6982",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-6981",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5930",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5929",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5928",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.1",
+        "date": "2015-10-21",
+        "advisory": "https://support.apple.com/en-us/103660"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5921",
+    "bugzilla": [],
+    "impacts": [
+      "An attacker in a privileged network position may be able to leak sensitive user information"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5907",
+    "bugzilla": [],
+    "impacts": [
+      "An attacker in a privileged network position may be able to redirect to a malicious domain"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5906",
+    "bugzilla": [],
+    "impacts": [
+      "QuickType may learn the last character of a password in a filled-in web form"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5827",
+    "bugzilla": [],
+    "impacts": [
+      "Object references may be leaked between isolated origins on custom events, message events and pop state events"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5826",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may exfiltrate data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5825",
+    "bugzilla": [],
+    "impacts": [
+      "The Performance API may allow a malicious website to leak browsing history, network activity, and mouse movements"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5821",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5820",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious website may lead to unintended dialing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5819",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5818",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5817",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5813",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5812",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5811",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5810",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5809",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5807",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5806",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5805",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5804",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5803",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5802",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5801",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5800",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5799",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5797",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5796",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5795",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5794",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5792",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5790",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5789",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 9.0",
+        "date": "2015-09-16",
+        "advisory": "https://support.apple.com/en-us/103713"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5762",
+    "bugzilla": [],
+    "impacts": [
+      "A user's password might be sent to an untrusted Wi-Fi access point"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-5759",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website can make a tap event produce a synthetic click on another page"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3753",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may exfiltrate image data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3752",
+    "bugzilla": [],
+    "impacts": [
+      "Content Security Policy report requests may leak cookies"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3751",
+    "bugzilla": [],
+    "impacts": [
+      "Image loading may violate a website's Content Security Policy directive"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3750",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website can trigger plaintext requests to an origin under HTTP Strict Transport Security"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3749",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3748",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3747",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3746",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3745",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3744",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3743",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3742",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3741",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3740",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3739",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3738",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3737",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3736",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3735",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3734",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3733",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3732",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3731",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3730",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4.1",
+        "date": "2015-08-13",
+        "advisory": "https://support.apple.com/en-us/103656"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3727",
+    "bugzilla": [],
+    "impacts": [
+      "A maliciously crafted website can access the WebSQL databases of other websites"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-15-281/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4",
+        "date": "2015-06-30",
+        "advisory": "https://support.apple.com/en-us/103814"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-3659",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted webpage may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-15-291/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4",
+        "date": "2015-06-30",
+        "advisory": "https://support.apple.com/en-us/103814"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1156",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious website by clicking a link may lead to user interface spoofing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4",
+        "date": "2015-06-30",
+        "advisory": "https://support.apple.com/en-us/103814"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1153",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4",
+        "date": "2015-06-30",
+        "advisory": "https://support.apple.com/en-us/103814"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1152",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.4",
+        "date": "2015-06-30",
+        "advisory": "https://support.apple.com/en-us/103814"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1126",
+    "bugzilla": [],
+    "impacts": [
+      "A user's password might be sent to an untrusted Wi-Fi access point"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1125",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to a user invoking a click on another website"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1124",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1123",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1122",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1121",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1120",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1119",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1084",
+    "bugzilla": [],
+    "impacts": [
+      "Inconsistent user interface may prevent users from discerning a phishing attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1083",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1082",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1081",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1080",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1079",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1078",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1077",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1076",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1074",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1073",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1072",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1071",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1070",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1069",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-15-123/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2015-1068",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.3",
+        "date": "2015-04-08",
+        "advisory": "https://support.apple.com/en-us/103652"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4479",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4477",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-15-009/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4476",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4475",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4474",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4473",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4472",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4471",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4470",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4469",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4468",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4467",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a website that frames malicious content may lead to UI spoofing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4466",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4465",
+    "bugzilla": [],
+    "impacts": [
+      "Style sheets are loaded cross-origin which may allow for data exfiltration"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-4459",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-3192",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2015-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 8.1.3",
+        "date": "2015-01-27",
+        "advisory": "https://support.apple.com/en-us/103583"
+      }
+    ]
+  }
+]

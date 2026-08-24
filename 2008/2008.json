@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CVE-2008-3632",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 2.1",
+        "date": "2008-09-12",
+        "advisory": "https://support.apple.com/en-us/104112"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1590",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1026",
+    "bugzilla": [],
+    "impacts": [
+      "Viewing a maliciously crafted web page may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-08-022/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-1025",
+    "bugzilla": [],
+    "impacts": [
+      "Accessing a maliciously crafted URL may result in cross-site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 2.0",
+        "date": "2008-07-11",
+        "advisory": "https://support.apple.com/en-us/104025"
+      }
+    ]
+  }
+]

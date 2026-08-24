@@ -1,0 +1,438 @@
+[
+  {
+    "id": "CVE-2009-2797",
+    "bugzilla": [],
+    "impacts": [
+      "User names and passwords in URLs may be disclosed to linked sites"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.1",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2199",
+    "bugzilla": [],
+    "impacts": [
+      "Look-alike characters in a URL could be used to masquerade a website"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.1",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1725",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.1",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1724",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.1",
+        "date": "2009-09-09",
+        "advisory": "https://support.apple.com/en-us/104146"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1702",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious website may lead to a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1701",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-09-033/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1700",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in the disclosure of sensitive information"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1699",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in an information disclosure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://scarybeastsecurity.blogspot.com/2009/06/apples-safari-4-fixes-local-file-theft.html",
+      "https://www.exploit-db.com/exploits/8907"
+    ],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1698",
+    "bugzilla": [],
+    "impacts": [
+      "Viewing a maliciously crafted web page may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-09-032/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1697",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1696",
+    "bugzilla": [],
+    "impacts": [
+      "Websites may surreptitiously track users"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1695",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1694",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may disclose images from other sites"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1693",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may disclose images from other sites"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1692",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected device reset"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://bugs.webkit.org/show_bug.cgi?id=23319"
+    ],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1691",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to cross-site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1690",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1689",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1688",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in a cross-site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1687",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1686",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1685",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in cross-site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1684",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may result in cross-site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0945",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-09-022/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-7260",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 3.0",
+        "date": "2009-06-17",
+        "advisory": "https://support.apple.com/en-us/104138"
+      }
+    ]
+  }
+]

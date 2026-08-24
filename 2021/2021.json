@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "CVE-2021-31008",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-31005",
+    "bugzilla": [],
+    "impacts": [
+      "Turning off \"Block all remote content\" may not apply to all remote content types"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30984",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.2",
+        "date": "2021-12-13",
+        "advisory": "https://support.apple.com/en-us/103170"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30954",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.2",
+        "date": "2021-12-13",
+        "advisory": "https://support.apple.com/en-us/103170"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30953",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.2",
+        "date": "2021-12-13",
+        "advisory": "https://support.apple.com/en-us/103170"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30952",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.2",
+        "date": "2021-12-13",
+        "advisory": "https://support.apple.com/en-us/103170"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30951",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.2",
+        "date": "2021-12-13",
+        "advisory": "https://support.apple.com/en-us/103170"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30936",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.2",
+        "date": "2021-12-13",
+        "advisory": "https://support.apple.com/en-us/103170"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30934",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.2",
+        "date": "2021-12-13",
+        "advisory": "https://support.apple.com/en-us/103170"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30897",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may exfiltrate data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30890",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.1",
+        "date": "2021-10-25",
+        "advisory": "https://support.apple.com/en-us/103161"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30889",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.1",
+        "date": "2021-10-25",
+        "advisory": "https://support.apple.com/en-us/103161"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30888",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website using Content Security Policy reports may be able to leak information via redirect behavior"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.1",
+        "date": "2021-10-25",
+        "advisory": "https://support.apple.com/en-us/103161"
+      },
+      {
+        "name": "iOS 14.8.1",
+        "date": "2021-10-26",
+        "advisory": "https://support.apple.com/en-us/103162"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30887",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to unexpectedly unenforced Content Security Policy"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.1",
+        "date": "2021-10-25",
+        "advisory": "https://support.apple.com/en-us/103161"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30884",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may reveal a user's browsing history"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30858",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0005.html",
+      "https://webkitgtk.org/security/WSA-2021-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.8",
+        "date": "2021-09-13",
+        "advisory": "https://support.apple.com/en-us/103150"
+      },
+      {
+        "name": "iOS 12.5.5",
+        "date": "2021-09-23",
+        "advisory": "https://support.apple.com/en-us/103157"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30851",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30849",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.8",
+        "date": "2021-09-13",
+        "advisory": "https://support.apple.com/en-us/103150"
+      },
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30848",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.8",
+        "date": "2021-09-13",
+        "advisory": "https://support.apple.com/en-us/103150"
+      },
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30846",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.8",
+        "date": "2021-09-13",
+        "advisory": "https://support.apple.com/en-us/103150"
+      },
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30836",
+    "bugzilla": [],
+    "impacts": [
+      "Processing a maliciously crafted audio file may disclose restricted memory"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.8",
+        "date": "2021-09-13",
+        "advisory": "https://support.apple.com/en-us/103150"
+      },
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30823",
+    "bugzilla": [],
+    "impacts": [
+      "An attacker in a privileged network position may be able to bypass HSTS"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.8",
+        "date": "2021-09-13",
+        "advisory": "https://support.apple.com/en-us/103150"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30818",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.8",
+        "date": "2021-09-13",
+        "advisory": "https://support.apple.com/en-us/103150"
+      },
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30809",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.0",
+        "date": "2021-09-20",
+        "advisory": "https://support.apple.com/en-us/103235"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30799",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.7",
+        "date": "2021-07-19",
+        "advisory": "https://support.apple.com/en-us/103139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30797",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.7",
+        "date": "2021-07-19",
+        "advisory": "https://support.apple.com/en-us/103139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30795",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.7",
+        "date": "2021-07-19",
+        "advisory": "https://support.apple.com/en-us/103139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30762",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.5.4",
+        "date": "2021-06-14",
+        "advisory": "https://support.apple.com/en-us/103137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30761",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.5.4",
+        "date": "2021-06-14",
+        "advisory": "https://support.apple.com/en-us/103137"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30758",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.7",
+        "date": "2021-07-19",
+        "advisory": "https://support.apple.com/en-us/103139"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30749",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-21-761/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.6",
+        "date": "2021-05-24",
+        "advisory": "https://support.apple.com/en-us/103130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30744",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.6",
+        "date": "2021-05-24",
+        "advisory": "https://support.apple.com/en-us/103130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30734",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-21-769/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.6",
+        "date": "2021-05-24",
+        "advisory": "https://support.apple.com/en-us/103130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30720",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may be able to access restricted ports on arbitrary servers"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.6",
+        "date": "2021-05-24",
+        "advisory": "https://support.apple.com/en-us/103130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30689",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.6",
+        "date": "2021-05-24",
+        "advisory": "https://support.apple.com/en-us/103130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30682",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious application may be able to leak sensitive user information"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.6",
+        "date": "2021-05-24",
+        "advisory": "https://support.apple.com/en-us/103130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30666",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.5.3",
+        "date": "2021-05-03",
+        "advisory": "https://support.apple.com/en-us/103070"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30665",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.5.3",
+        "date": "2021-05-03",
+        "advisory": "https://support.apple.com/en-us/103070"
+      },
+      {
+        "name": "iOS 14.5.1",
+        "date": "2021-05-03",
+        "advisory": "https://support.apple.com/en-us/103067"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-30663",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.5.3",
+        "date": "2021-05-03",
+        "advisory": "https://support.apple.com/en-us/103070"
+      },
+      {
+        "name": "iOS 14.5.1",
+        "date": "2021-05-03",
+        "advisory": "https://support.apple.com/en-us/103067"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-21779",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://talosintelligence.com/vulnerability_reports/TALOS-2021-1238",
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.6",
+        "date": "2021-05-24",
+        "advisory": "https://support.apple.com/en-us/103130"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1879",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 12.5.2",
+        "date": "2021-03-26",
+        "advisory": "https://support.apple.com/en-us/103192"
+      },
+      {
+        "name": "iOS 14.4.2",
+        "date": "2021-03-26",
+        "advisory": "https://support.apple.com/en-us/103200"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1871",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.4",
+        "date": "2021-01-26",
+        "advisory": "https://support.apple.com/en-us/103123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1870",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.4",
+        "date": "2021-01-26",
+        "advisory": "https://support.apple.com/en-us/103123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1844",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.4.1",
+        "date": "2021-03-08",
+        "advisory": "https://support.apple.com/en-us/102900"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1826",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.5",
+        "date": "2021-04-26",
+        "advisory": "https://support.apple.com/en-us/103125"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1825",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to a cross site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.5",
+        "date": "2021-04-26",
+        "advisory": "https://support.apple.com/en-us/103125"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1820",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may result in the disclosure of process memory"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.5",
+        "date": "2021-04-26",
+        "advisory": "https://support.apple.com/en-us/103125"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1817",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.5",
+        "date": "2021-04-26",
+        "advisory": "https://support.apple.com/en-us/103125"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1801",
+    "bugzilla": [],
+    "impacts": [
+      "Maliciously crafted web content may violate iframe sandboxing policy"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.4",
+        "date": "2021-01-26",
+        "advisory": "https://support.apple.com/en-us/103123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1789",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.4",
+        "date": "2021-01-26",
+        "advisory": "https://support.apple.com/en-us/103123"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2021-1788",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.4",
+        "date": "2021-01-26",
+        "advisory": "https://support.apple.com/en-us/103123"
+      }
+    ]
+  }
+]

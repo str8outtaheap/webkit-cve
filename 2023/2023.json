@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "CVE-2023-43010",
+    "bugzilla": [
+      "260913"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption."
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/78ca85d1db78101d75e8500282808226b695a1e7"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2026-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.2",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120877"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-43000",
+    "bugzilla": [
+      "255951"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/929c0df4fd46d057005e2f6c953838dc2bad4b4d"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42970",
+    "bugzilla": [
+      "249451"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d1cbec4c36d40118f5549264674a7a7fe280c18b"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42956",
+    "bugzilla": [
+      "263989"
+    ],
+    "impacts": [
+      "Processing web content may lead to a denial-of-service"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/1034f6e167610d43cd755fad80180c9c08ce23a4"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.2",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120877"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42950",
+    "bugzilla": [
+      "263682"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/1325b97c04cdb848f8ba167b6c7595dcd5ef0cc7"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.2",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120877"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42939",
+    "bugzilla": [],
+    "impacts": [
+      "A user's private browsing activity may be unexpectedly saved in the App Privacy Report"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.1",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109052"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42917",
+    "bugzilla": [
+      "265067"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/e1048521aef5bf2f660d0d1826450f0588d2eec2"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0011.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.1.2",
+        "date": "2023-11-30",
+        "advisory": "https://support.apple.com/en-us/120296"
+      },
+      {
+        "name": "iOS 16.7.3",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120301"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42916",
+    "bugzilla": [
+      "265041"
+    ],
+    "impacts": [
+      "Processing web content may disclose sensitive information. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0011.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.1.2",
+        "date": "2023-11-30",
+        "advisory": "https://support.apple.com/en-us/120296"
+      },
+      {
+        "name": "iOS 16.7.3",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120301"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42890",
+    "bugzilla": [
+      "259830"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/014d6ff4b81cf471153af5faaf83dd6347503b6e"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0012.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.2",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120877"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42883",
+    "bugzilla": [
+      "263349"
+    ],
+    "impacts": [
+      "Processing an image may lead to a denial-of-service"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/00f03d987c0cec7d2821e3d1086bdf15dc807c0d"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0012.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.3",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120301"
+      },
+      {
+        "name": "iOS 17.2",
+        "date": "2023-12-11",
+        "advisory": "https://support.apple.com/en-us/120877"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42875",
+    "bugzilla": [
+      "239758"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/5e1033a7cd0361a94d7af3ca78c81873f33aa6a8"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42866",
+    "bugzilla": [
+      "257684"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/4a9d1a52a38c2feda07d32b7ec9790ef7a690b20"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42852",
+    "bugzilla": [
+      "260173"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/81ec83aef725e14600ce22c49ff71ac2c12e31a4"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0010.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.2",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109053"
+      },
+      {
+        "name": "iOS 17.1",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109052"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42843",
+    "bugzilla": [
+      "260046"
+    ],
+    "impacts": [
+      "Visiting a malicious website may lead to address bar spoofing"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/950758759f71415f03308692ebd0feae8e6591f9"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.2",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109053"
+      },
+      {
+        "name": "iOS 17.1",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109052"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42833",
+    "bugzilla": [
+      "258592"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/50ad0a17b352acd4ca9f2b695c8adce06eec8edb"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-41993",
+    "bugzilla": [
+      "261544"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.7."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/08d5d17c766ffc7ca6a7c833c5720eb71b427784"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7",
+        "date": "2023-09-21",
+        "advisory": "https://support.apple.com/en-us/120329"
+      },
+      {
+        "name": "iOS 17.0.1",
+        "date": "2023-09-21",
+        "advisory": "https://support.apple.com/en-us/106369"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-41976",
+    "bugzilla": [
+      "259890"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/868fdd2f60885a5095ab3888261aed0ba002cc03"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.7.2",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109053"
+      },
+      {
+        "name": "iOS 17.1",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109052"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-41074",
+    "bugzilla": [
+      "256551"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d60bafb0be1bf24b79a858f9208e5047c58f0d06"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-40447",
+    "bugzilla": [
+      "259836"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.7.2",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109053"
+      },
+      {
+        "name": "iOS 17.1",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109052"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-40414",
+    "bugzilla": [
+      "249451"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d1cbec4c36d40118f5549264674a7a7fe280c18b"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-40397",
+    "bugzilla": [
+      "257824"
+    ],
+    "impacts": [
+      "A remote attacker may be able to cause arbitrary javascript code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/bfe32ce05ee3b00154b18fef84cc2dff3c7bf5af"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-40385",
+    "bugzilla": [
+      "257303"
+    ],
+    "impacts": [
+      "A remote attacker may be able to view leaked DNS queries with Private Relay turned on"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/5a0dc0c7e3a5b1d90ad25e7901711012c173e4e4"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-39434",
+    "bugzilla": [
+      "249451"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d1cbec4c36d40118f5549264674a7a7fe280c18b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-38611",
+    "bugzilla": [
+      "258058"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/4b6edc53e68ce12d8b4d0e89704aab3793a221be"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-38600",
+    "bugzilla": [
+      "256865"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/68133dd90f053165d8d12d975bc01c164faf05dd"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0007.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-23-1494/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-38599",
+    "bugzilla": [
+      "257822"
+    ],
+    "impacts": [
+      "A website may be able to track sensitive user information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/a7d489f726c292c67933e32de013a15343c47b89"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.8",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120332"
+      },
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-38595",
+    "bugzilla": [
+      "256865"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/68133dd90f053165d8d12d975bc01c164faf05dd"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-38594",
+    "bugzilla": [
+      "256865"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/68133dd90f053165d8d12d975bc01c164faf05dd"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.8",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120332"
+      },
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-38592",
+    "bugzilla": [
+      "257331"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/04bd941e62cbadecdc889fb575315ffd142756e4"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-38572",
+    "bugzilla": [
+      "256549"
+    ],
+    "impacts": [
+      "A website may be able to bypass Same Origin Policy"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/a438f531da737c8a975174c1585cd25336f26960"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.8",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120332"
+      },
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-37450",
+    "bugzilla": [
+      "259231"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.8",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120332"
+      },
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-35074",
+    "bugzilla": [
+      "239758"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/5e1033a7cd0361a94d7af3ca78c81873f33aa6a8"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32445",
+    "bugzilla": [
+      "257299"
+    ],
+    "impacts": [
+      "Processing a document may lead to a cross site scripting attack"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d294c9bf0f3fe2c7bb92dff5efc544c886001681"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 15.7.8",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120332"
+      },
+      {
+        "name": "iOS 16.6",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120338"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32439",
+    "bugzilla": [
+      "256567"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/52fe95e5805c735cc1fa4d6200fcaa1912efbfea"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.7",
+        "date": "2023-06-21",
+        "advisory": "https://support.apple.com/en-us/103836"
+      },
+      {
+        "name": "iOS 16.5.1",
+        "date": "2023-06-21",
+        "advisory": "https://support.apple.com/en-us/103837"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32435",
+    "bugzilla": [
+      "251890"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited against versions of iOS released before iOS 15.7."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/50c7aaec2f53ab3b960f1b299aad5009df6f1967"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      },
+      {
+        "name": "iOS 15.7.7",
+        "date": "2023-06-21",
+        "advisory": "https://support.apple.com/en-us/103836"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32423",
+    "bugzilla": [
+      "254781"
+    ],
+    "impacts": [
+      "Processing web content may disclose sensitive information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/5c059ab32c26d642874354e3be0f8802d8e71e1b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.5",
+        "date": "2023-05-18",
+        "advisory": "https://support.apple.com/en-us/106332"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32409",
+    "bugzilla": [
+      "255350"
+    ],
+    "impacts": [
+      "A remote attacker may be able to break out of Web Content sandbox. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/54408f5746f2401721bd56d71de132a22b6f9856"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.5",
+        "date": "2023-05-18",
+        "advisory": "https://support.apple.com/en-us/106332"
+      },
+      {
+        "name": "iOS 15.7.8",
+        "date": "2023-07-24",
+        "advisory": "https://support.apple.com/en-us/120332"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32402",
+    "bugzilla": [
+      "255075"
+    ],
+    "impacts": [
+      "Processing web content may disclose sensitive information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9d792587594f2ea0714bdf233d63c6dbf7e060d1"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.5",
+        "date": "2023-05-18",
+        "advisory": "https://support.apple.com/en-us/106332"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32393",
+    "bugzilla": [
+      "248885"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.3",
+        "date": "2023-01-23",
+        "advisory": "https://support.apple.com/en-us/106330"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32373",
+    "bugzilla": [
+      "254840"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/85fd2302d16a09a82d9a6e81eb286babb23c4b3c"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.6",
+        "date": "2023-05-18",
+        "advisory": "https://support.apple.com/en-us/102738"
+      },
+      {
+        "name": "iOS 16.5",
+        "date": "2023-05-18",
+        "advisory": "https://support.apple.com/en-us/106332"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32370",
+    "bugzilla": [
+      "250709"
+    ],
+    "impacts": [
+      "Content Security Policy to block domains with wildcards may fail"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9f34042e08500512243b35f5a0d01122fd82cdc6"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-32359",
+    "bugzilla": [
+      "248717"
+    ],
+    "impacts": [
+      "A user's password may be read aloud by VoiceOver"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/3b6d017ba868a66c08ca684570e44269fb2b1274"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0010.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.0",
+        "date": "2023-09-18",
+        "advisory": "https://support.apple.com/en-us/120949"
+      },
+      {
+        "name": "iOS 16.7.2",
+        "date": "2023-10-25",
+        "advisory": "https://support.apple.com/en-us/109053"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-28205",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.4.1",
+        "date": "2023-04-07",
+        "advisory": "https://support.apple.com/en-us/102795"
+      },
+      {
+        "name": "iOS 15.7.5",
+        "date": "2023-04-10",
+        "advisory": "https://support.apple.com/en-us/102790"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-28204",
+    "bugzilla": [
+      "254930"
+    ],
+    "impacts": [
+      "Processing web content may disclose sensitive information. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/698c6e293734c3c46f223b77d5b4ee48b320e32c"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.6",
+        "date": "2023-05-18",
+        "advisory": "https://support.apple.com/en-us/102738"
+      },
+      {
+        "name": "iOS 16.5",
+        "date": "2023-05-18",
+        "advisory": "https://support.apple.com/en-us/106332"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-28198",
+    "bugzilla": [
+      "250429"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/6a3bc9e418ddb694dee46c4e42a9f2884296bbaa"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0008.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-23-1018/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102810"
+      },
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-27954",
+    "bugzilla": [
+      "250837"
+    ],
+    "impacts": [
+      "A website may be able to track sensitive user information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/b67af69609f3209a2a2f72f9ca5c3b03d902df04"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.7.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102810"
+      },
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-27932",
+    "bugzilla": [
+      "248615"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may bypass Same Origin Policy"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d1805dadb324be69abc61da1fde86e880573fb92"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-23529",
+    "bugzilla": [
+      "251944"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/6cc943c3323a1a1368934c812e5e8ec08f54dcd4"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.3.1",
+        "date": "2023-02-13",
+        "advisory": "https://support.apple.com/en-us/102803"
+      },
+      {
+        "name": "iOS 15.7.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102810"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-23518",
+    "bugzilla": [
+      "248268"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f44648f07471b6c34f61993baa8997f7519a18a1"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.3",
+        "date": "2023-01-23",
+        "advisory": "https://support.apple.com/en-us/106330"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-23517",
+    "bugzilla": [
+      "248268"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f44648f07471b6c34f61993baa8997f7519a18a1"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.3",
+        "date": "2023-01-23",
+        "advisory": "https://support.apple.com/en-us/106330"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-23496",
+    "bugzilla": [
+      "245464"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/b0b694fd099f5692c3d73f7d66abaca58c4f9b4e"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.3",
+        "date": "2023-01-23",
+        "advisory": "https://support.apple.com/en-us/106330"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2022-46725",
+    "bugzilla": [
+      "247289"
+    ],
+    "impacts": [
+      "Visiting a malicious website may lead to address bar spoofing"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/16904a9a85c8bec95b033c9db81eb06888d8c97c"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0010.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2022-46705",
+    "bugzilla": [
+      "247287"
+    ],
+    "impacts": [
+      "Visiting a malicious website may lead to address bar spoofing"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/a6c922ea6f0526752da82adfad89afd1ef26268a"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0010.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2022-42856",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited against versions of iOS released before iOS 15.1."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/98940f219ba0e3eb6d958af483b73dd9cc75c28c"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2022-0011.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.5.7",
+        "date": "2023-01-23",
+        "advisory": "https://support.apple.com/en-us/103015"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2022-0108",
+    "bugzilla": [
+      "241753"
+    ],
+    "impacts": [
+      "An HTML document may be able to render iframes with sensitive user information"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/13819101c22430f8c2705f29c3aa1de4330bb25b"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.3",
+        "date": "2023-01-23",
+        "advisory": "https://support.apple.com/en-us/106330"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2014-1745",
+    "bugzilla": [
+      "249434"
+    ],
+    "impacts": [
+      "Processing a file may lead to a denial-of-service or potentially disclose memory contents"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/38946d45dfe831d30d7c7fce8123ea8a85b00169"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.4",
+        "date": "2023-03-27",
+        "advisory": "https://support.apple.com/en-us/102880"
+      }
+    ]
+  }
+]

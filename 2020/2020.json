@@ -1,0 +1,634 @@
+[
+  {
+    "id": "CVE-2020-27918",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.2",
+        "date": "2020-11-05",
+        "advisory": "https://support.apple.com/en-us/103121"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9983",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.0",
+        "date": "2020-09-16",
+        "advisory": "https://support.apple.com/en-us/103198"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9952",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to a cross site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.0",
+        "date": "2020-09-16",
+        "advisory": "https://support.apple.com/en-us/103198"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9951",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.0",
+        "date": "2020-09-16",
+        "advisory": "https://support.apple.com/en-us/103198"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9950",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 14.0",
+        "date": "2020-09-16",
+        "advisory": "https://support.apple.com/en-us/103198"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9947",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2021-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 14.0",
+        "date": "2020-09-16",
+        "advisory": "https://support.apple.com/en-us/103198"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9925",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.6",
+        "date": "2020-07-15",
+        "advisory": "https://support.apple.com/en-us/103112"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9915",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may prevent Content Security Policy from being enforced"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.6",
+        "date": "2020-07-15",
+        "advisory": "https://support.apple.com/en-us/103112"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9910",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious attacker with arbitrary read and write capability may be able to bypass Pointer Authentication"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 13.6",
+        "date": "2020-07-15",
+        "advisory": "https://support.apple.com/en-us/103112"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9895",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.6",
+        "date": "2020-07-15",
+        "advisory": "https://support.apple.com/en-us/103112"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9894",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.6",
+        "date": "2020-07-15",
+        "advisory": "https://support.apple.com/en-us/103112"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9893",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause unexpected application termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.6",
+        "date": "2020-07-15",
+        "advisory": "https://support.apple.com/en-us/103112"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9850",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9843",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to a cross site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9807",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9806",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9805",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9803",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9802",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9800",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 13.5",
+        "date": "2020-05-20",
+        "advisory": "https://support.apple.com/en-us/103029"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9787",
+    "bugzilla": [],
+    "impacts": [
+      "Some websites may not have appeared in Safari Preferences"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-9783",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3902",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to a cross site scripting attack"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3901",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3900",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3899",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3897",
+    "bugzilla": [],
+    "impacts": [
+      "A remote attacker may be able to cause arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3895",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3894",
+    "bugzilla": [],
+    "impacts": [
+      "An application may be able to read restricted memory"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3887",
+    "bugzilla": [],
+    "impacts": [
+      "A download's origin may be incorrectly associated"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 13.4",
+        "date": "2020-03-24",
+        "advisory": "https://support.apple.com/en-us/103828"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3868",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.3.1",
+        "date": "2020-01-28",
+        "advisory": "https://support.apple.com/en-us/103218"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3867",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.3.1",
+        "date": "2020-01-28",
+        "advisory": "https://support.apple.com/en-us/103218"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3862",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may be able to cause a denial of service"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2020-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 13.3.1",
+        "date": "2020-01-28",
+        "advisory": "https://support.apple.com/en-us/103218"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2020-3825",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 13.3.1",
+        "date": "2020-01-28",
+        "advisory": "https://support.apple.com/en-us/103218"
+      }
+    ]
+  }
+]

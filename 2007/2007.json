@@ -1,0 +1,36 @@
+[
+  {
+    "id": "CVE-2007-3742",
+    "bugzilla": [],
+    "impacts": [
+      "Look-alike characters in a URL could be used to masquerade a website."
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 1.0.1",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102579"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2007-2399",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution."
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 1.0.1",
+        "date": "2007-07-31",
+        "advisory": "https://support.apple.com/en-us/102579"
+      }
+    ]
+  }
+]

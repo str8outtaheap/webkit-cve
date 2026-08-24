@@ -1,0 +1,1883 @@
+[
+  {
+    "id": "CVE-2018-4474",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4464",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1.1",
+        "date": "2018-12-05",
+        "advisory": "https://support.apple.com/en-us/103704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4444",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may disclose sensitive user information"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 12.1.1",
+        "date": "2018-12-05",
+        "advisory": "https://support.apple.com/en-us/103704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4443",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1.1",
+        "date": "2018-12-05",
+        "advisory": "https://support.apple.com/en-us/103704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4442",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1.1",
+        "date": "2018-12-05",
+        "advisory": "https://support.apple.com/en-us/103704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4441",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1.1",
+        "date": "2018-12-05",
+        "advisory": "https://support.apple.com/en-us/103704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4438",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1.1",
+        "date": "2018-12-05",
+        "advisory": "https://support.apple.com/en-us/103704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4437",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0009.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1.1",
+        "date": "2018-12-05",
+        "advisory": "https://support.apple.com/en-us/103704"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4416",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4409",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may be able to cause a denial of service"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4392",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4386",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4385",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious website may lead to address bar spoofing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4382",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4378",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4376",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-1332/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4375",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-1335/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4373",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-1323/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4372",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.1",
+        "date": "2018-10-30",
+        "advisory": "https://support.apple.com/en-us/103089"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4361",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4360",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4359",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4358",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-1083/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4345",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may exfiltrate image data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4328",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4323",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4319",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may cause unexepected cross-origin behavior"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4318",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4317",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4316",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4315",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4314",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4312",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4311",
+    "bugzilla": [],
+    "impacts": [
+      "Cross-origin SecurityErrors includes the accessed frame’s origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4309",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may be able to execute scripts in the context of another website"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-1082/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4306",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4299",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-1081/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4284",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4278",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may exfiltrate audio data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4274",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious website may lead to address bar spoofing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4273",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4272",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4271",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4270",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4267",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-601/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4266",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may be able to cause a denial of service"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4265",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-603/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4264",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4263",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-605/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4262",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-606/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4261",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-604/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4.1",
+        "date": "2018-07-09",
+        "advisory": "https://support.apple.com/en-us/103694"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4246",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4233",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0005.html",
+      "https://www.exploit-db.com/exploits/45998/",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-1321/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4232",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may lead to cookies being overwritten"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4222",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://bugs.chromium.org/p/project-zero/issues/detail?id=1545",
+      "https://webkitgtk.org/security/WSA-2018-0005.html",
+      "https://www.exploit-db.com/exploits/44859/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4218",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://bugs.chromium.org/p/project-zero/issues/detail?id=1553",
+      "https://webkitgtk.org/security/WSA-2018-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4214",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4213",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4212",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4210",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction with indexing types caused a failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4209",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4208",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4207",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4204",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0004.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-780/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3.1",
+        "date": "2018-04-24",
+        "advisory": "https://support.apple.com/en-us/103690"
+      },
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4201",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4200",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://bugs.chromium.org/p/project-zero/issues/detail?id=1525",
+      "https://webkitgtk.org/security/WSA-2018-0004.html",
+      "https://www.exploit-db.com/exploits/44566/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3.1",
+        "date": "2018-04-24",
+        "advisory": "https://support.apple.com/en-us/103690"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4199",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0005.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-781/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4197",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4192",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0005.html",
+      "https://www.exploit-db.com/exploits/45048/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4191",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction causes an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 12.0",
+        "date": "2018-09-17",
+        "advisory": "https://support.apple.com/en-us/103695"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4190",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a maliciously crafted website may leak sensitive data"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4188",
+    "bugzilla": [],
+    "impacts": [
+      "Visiting a malicious website may lead to address bar spoofing"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 11.4",
+        "date": "2018-05-29",
+        "advisory": "https://support.apple.com/en-us/103082"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4165",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4163",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-278/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4162",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-275/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4161",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-277/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4147",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 11.2.5",
+        "date": "2018-01-23",
+        "advisory": "https://support.apple.com/en-us/103685"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4146",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to a denial of service"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4145",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4130",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-273/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4129",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-272/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4128",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4127",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-274/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4125",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-276/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4122",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-271/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4121",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://github.com/mwrlabs/CVE-2018-4121",
+      "https://webkitgtk.org/security/WSA-2018-0004.html",
+      "https://www.exploit-db.com/exploits/44427/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4120",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4119",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-18-270/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4118",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4117",
+    "bugzilla": [],
+    "impacts": [
+      "A malicious website may exfiltrate data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4114",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4113",
+    "bugzilla": [],
+    "impacts": [
+      "Unexpected interaction with indexing types causing an ASSERT failure"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4101",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.3",
+        "date": "2018-03-29",
+        "advisory": "https://support.apple.com/en-us/103809"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4096",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.2.5",
+        "date": "2018-01-23",
+        "advisory": "https://support.apple.com/en-us/103685"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4089",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0002.html",
+      "https://www.exploit-db.com/exploits/43937/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.2.5",
+        "date": "2018-01-23",
+        "advisory": "https://support.apple.com/en-us/103685"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2018-4088",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.2.5",
+        "date": "2018-01-23",
+        "advisory": "https://support.apple.com/en-us/103685"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5753",
+    "bugzilla": [],
+    "impacts": [
+      "iOS 11.2.2 includes security improvements to Safari and WebKit to mitigate the effects of Spectre (CVE-2017-5753 and CVE-2017-5715)."
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.2.2",
+        "date": "2018-01-08",
+        "advisory": "https://support.apple.com/en-us/103648"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5715",
+    "bugzilla": [],
+    "impacts": [
+      "iOS 11.2.2 includes security improvements to Safari and WebKit to mitigate the effects of Spectre (CVE-2017-5753 and CVE-2017-5715)."
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2018-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 11.2.2",
+        "date": "2018-01-08",
+        "advisory": "https://support.apple.com/en-us/103648"
+      }
+    ]
+  }
+]

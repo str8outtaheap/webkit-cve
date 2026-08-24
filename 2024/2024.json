@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "CVE-2024-54658",
+    "bugzilla": [
+      "263758"
+    ],
+    "impacts": [
+      "Processing web content may lead to a denial-of-service"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.4",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120893"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54551",
+    "bugzilla": [
+      "275117"
+    ],
+    "impacts": [
+      "Processing web content may lead to a denial-of-service"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/e73dfba967ee3b8d87afc74425a343cac523845b"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0003.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54543",
+    "bugzilla": [
+      "277967"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ccef7b85cc9b91a1cf352883a27602c2a5ea57bc"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.2",
+        "date": "2024-12-11",
+        "advisory": "https://support.apple.com/en-us/121837"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54534",
+    "bugzilla": [
+      "277967"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ccef7b85cc9b91a1cf352883a27602c2a5ea57bc"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.2",
+        "date": "2024-12-11",
+        "advisory": "https://support.apple.com/en-us/121837"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54508",
+    "bugzilla": [
+      "282180"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/032dd069dcf03d18e0b2f21b0955f55d09e1ab83"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.2",
+        "date": "2024-12-11",
+        "advisory": "https://support.apple.com/en-us/121837"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54505",
+    "bugzilla": [
+      "282661"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/2d5e29d47324834c4c9dda041ecb5908e1dfef78"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.2",
+        "date": "2024-12-11",
+        "advisory": "https://support.apple.com/en-us/121837"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54502",
+    "bugzilla": [
+      "278497"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f95652711d7e02dc8fb2005baf8dd36c1239e2e3"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.2",
+        "date": "2024-12-11",
+        "advisory": "https://support.apple.com/en-us/121837"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54479",
+    "bugzilla": [
+      "278497"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f95652711d7e02dc8fb2005baf8dd36c1239e2e3"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0008.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.2",
+        "date": "2024-12-11",
+        "advisory": "https://support.apple.com/en-us/121837"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-54467",
+    "bugzilla": [
+      "287874"
+    ],
+    "impacts": [
+      "A malicious website may exfiltrate data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.0",
+        "date": "2024-09-16",
+        "advisory": "https://support.apple.com/en-us/121250"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44309",
+    "bugzilla": [
+      "283095"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to a cross site scripting attack. Apple is aware of a report that this issue may have been actively exploited on Intel-based Mac systems."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/abf0e2141d8fcb4c03002d0f8a2f51820c905b5c"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0007.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.7.2",
+        "date": "2024-11-19",
+        "advisory": "https://support.apple.com/en-us/121754"
+      },
+      {
+        "name": "iOS 18.1.1",
+        "date": "2024-11-19",
+        "advisory": "https://support.apple.com/en-us/121752"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44296",
+    "bugzilla": [
+      "278765"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may prevent Content Security Policy from being enforced"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/4729b99658a7b2befac1a317971bee4d0bc16066"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.7.1",
+        "date": "2024-10-28",
+        "advisory": "https://support.apple.com/en-us/121567"
+      },
+      {
+        "name": "iOS 18.1",
+        "date": "2024-10-28",
+        "advisory": "https://support.apple.com/en-us/121563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44244",
+    "bugzilla": [
+      "279780"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.1",
+        "date": "2024-10-28",
+        "advisory": "https://support.apple.com/en-us/121563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44212",
+    "bugzilla": [
+      "279226"
+    ],
+    "impacts": [
+      "Cookies belonging to one origin may be sent to another origin"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/11494e67729152123b351f836d98b94eb6f8bd65"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.1",
+        "date": "2024-10-28",
+        "advisory": "https://support.apple.com/en-us/121563"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44206",
+    "bugzilla": [
+      "280765"
+    ],
+    "impacts": [
+      "A user may be able to bypass some web content restrictions"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44192",
+    "bugzilla": [
+      "268770"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c2f9092d3a8e7bf63dd1c55c9917cd391fff2665"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.0",
+        "date": "2024-09-16",
+        "advisory": "https://support.apple.com/en-us/121250"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44187",
+    "bugzilla": [
+      "279452"
+    ],
+    "impacts": [
+      "A malicious website may exfiltrate data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 18.0",
+        "date": "2024-09-16",
+        "advisory": "https://support.apple.com/en-us/121250"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-44185",
+    "bugzilla": [
+      "276097"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/2f5a0e40ca697d00c42a3f73f8b4dda5a0d175f1"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0006.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40857",
+    "bugzilla": [
+      "268724"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to universal cross site scripting"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/a350c1e9191addf59889f6466e051115ab36d38c"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.0",
+        "date": "2024-09-16",
+        "advisory": "https://support.apple.com/en-us/121250"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40794",
+    "bugzilla": [
+      "275272"
+    ],
+    "impacts": [
+      "Private Browsing tabs may be accessed without authentication"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40789",
+    "bugzilla": [],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0004.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-24-1160/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.9",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120908"
+      },
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40785",
+    "bugzilla": [
+      "273805"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to a cross site scripting attack"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f9a7dd12bbf77919866f72097b381a51cebdf56b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.7.9",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120908"
+      },
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40782",
+    "bugzilla": [
+      "273176"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/42190b9e1320b2ef71e165fefaf8263d5924281d"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.9",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120908"
+      },
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40780",
+    "bugzilla": [
+      "275431"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/971ab40cd8de9afbe40334360e07230d1f76d0ed"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.9",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120908"
+      },
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40779",
+    "bugzilla": [
+      "275431"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/971ab40cd8de9afbe40334360e07230d1f76d0ed"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.9",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120908"
+      },
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-40776",
+    "bugzilla": [
+      "273176"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/42190b9e1320b2ef71e165fefaf8263d5924281d"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.9",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120908"
+      },
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27859",
+    "bugzilla": [
+      "259694"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d8d29d4618457c3fd19c35309136a14d0582e1d3"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.4",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120893"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27856",
+    "bugzilla": [
+      "268765"
+    ],
+    "impacts": [
+      "Processing a file may lead to unexpected app termination or arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/0d0caf9579718608843389ad1dcf5961c5cce63e"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2025-0001.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-25-048/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.8",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120898"
+      },
+      {
+        "name": "iOS 17.5",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120905"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27851",
+    "bugzilla": [
+      "272106"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/bc5bcf116eef81d7f61706d5e157e921461757ee"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.5",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120905"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27850",
+    "bugzilla": [
+      "270767"
+    ],
+    "impacts": [
+      "A maliciously crafted webpage may be able to fingerprint the user"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/775bac300c8b006803ba1d5c2f7bf28a0f77bc69"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.5",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120905"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27838",
+    "bugzilla": [
+      "262337"
+    ],
+    "impacts": [
+      "A maliciously crafted webpage may be able to fingerprint the user"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f0fba73ace0f5a4e31e0a16d3b824af0a396a6e9"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.8",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120898"
+      },
+      {
+        "name": "iOS 17.5",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120905"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27834",
+    "bugzilla": [
+      "272750"
+    ],
+    "impacts": [
+      "A malicious attacker with arbitrary read and write capability may be able to bypass Pointer Authentication",
+      "An attacker with arbitrary read and write capability may be able to bypass Pointer Authentication"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/3e3d0883c84955472ece1b2f2e63f31522c5440d"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0003.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-22-1123/",
+      "https://www.zerodayinitiative.com/advisories/ZDI-25-093/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.8",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120898"
+      },
+      {
+        "name": "iOS 17.5",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120905"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27833",
+    "bugzilla": [
+      "271491"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/1ea4ef8127276fd00ca43ffcb22bed162072abde"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0005.html",
+      "https://www.zerodayinitiative.com/advisories/ZDI-25-092/"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.8",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120898"
+      },
+      {
+        "name": "iOS 17.5",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120905"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-27808",
+    "bugzilla": [
+      "268221"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/b25150796310098d1c10f98c45825c4be34912ee"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.5",
+        "date": "2024-05-13",
+        "advisory": "https://support.apple.com/en-us/120905"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23284",
+    "bugzilla": [
+      "267241"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may prevent Content Security Policy from being enforced"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/186349180de5ef6858ef0e0318a4dddb75be1fdf"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.6",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120880"
+      },
+      {
+        "name": "iOS 17.4",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120893"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23280",
+    "bugzilla": [
+      "266703"
+    ],
+    "impacts": [
+      "A maliciously crafted webpage may be able to fingerprint the user"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/17c0ad98bb1ce2d5df631bca49e13809b9ecf03b"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.4",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120893"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23271",
+    "bugzilla": [
+      "265812"
+    ],
+    "impacts": [
+      "A malicious website may cause unexpected cross-origin behavior"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/863558a77cbf5d2cf19869c6fb9884b6928dbbdf"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0005.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.3",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23263",
+    "bugzilla": [
+      "264811"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may prevent Content Security Policy from being enforced"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/93603245b1ebc4cd2c451af93d98c86533c0d6fe"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.6",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120880"
+      },
+      {
+        "name": "iOS 17.4",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120893"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23254",
+    "bugzilla": [
+      "263795"
+    ],
+    "impacts": [
+      "A malicious website may exfiltrate audio data cross-origin"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0002.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.4",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120893"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23226",
+    "bugzilla": [
+      "259694"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/d8d29d4618457c3fd19c35309136a14d0582e1d3"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 17.4",
+        "date": "2024-03-05",
+        "advisory": "https://support.apple.com/en-us/120893"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23222",
+    "bugzilla": [
+      "267134"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/64714692967ad278155fcae66c5cb0f853b3bf34"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.5",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120310"
+      },
+      {
+        "name": "iOS 17.3",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23214",
+    "bugzilla": [
+      "265129"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/0023fa29b365fd4f1f7c79ff3bd84786e96a1ea9"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.7.5",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120310"
+      },
+      {
+        "name": "iOS 17.3",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23213",
+    "bugzilla": [
+      "266619"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/77a6809901292311fc674150434d829d3dd2bf0c"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0001.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 16.7.5",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120310"
+      },
+      {
+        "name": "iOS 17.3",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-23206",
+    "bugzilla": [
+      "262699"
+    ],
+    "impacts": [
+      "A maliciously crafted webpage may be able to fingerprint the user"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/89314de81d9bcf4a5011c3304179351e6c637ccd"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 16.7.5",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120310"
+      },
+      {
+        "name": "iOS 17.3",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120304"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4558",
+    "bugzilla": [
+      "274165"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2024-0004.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 17.6",
+        "date": "2024-07-29",
+        "advisory": "https://support.apple.com/en-us/120909"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42917",
+    "bugzilla": [
+      "265067"
+    ],
+    "impacts": [
+      "Processing web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1."
+    ],
+    "itw": true,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/e1048521aef5bf2f660d0d1826450f0588d2eec2"
+    ],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0011.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.8.1",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120308"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2023-42916",
+    "bugzilla": [
+      "265041"
+    ],
+    "impacts": [
+      "Processing web content may disclose sensitive information. Apple is aware of a report that this issue may have been exploited against versions of iOS before iOS 16.7.1."
+    ],
+    "itw": true,
+    "commits": [],
+    "references": [
+      "https://webkitgtk.org/security/WSA-2023-0011.html"
+    ],
+    "releases": [
+      {
+        "name": "iOS 15.8.1",
+        "date": "2024-01-22",
+        "advisory": "https://support.apple.com/en-us/120308"
+      }
+    ]
+  }
+]
