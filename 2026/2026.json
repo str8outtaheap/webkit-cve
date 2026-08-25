@@ -197,7 +197,9 @@
       "Processing maliciously crafted web content may lead to an unexpected Safari crash"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/7d867192b7ab40a0c797e68d86a5842884729bea"
+    ],
     "references": [],
     "releases": [
       {
@@ -245,7 +247,9 @@
       "Processing maliciously crafted web content may lead to an unexpected Safari crash"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/03a07e420089127130f5e8560d8b1888ccc4d6f4"
+    ],
     "references": [],
     "releases": [
       {
@@ -471,7 +475,9 @@
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/1d5c10e2f9c8f31378c8b14fb71a48423793ce07"
+    ],
     "references": [],
     "releases": [
       {
