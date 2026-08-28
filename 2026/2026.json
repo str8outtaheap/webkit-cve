@@ -225,7 +225,9 @@
       "Processing maliciously crafted web content may lead to an unexpected Safari crash"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/8f229fb72961093d2f552ecfef65a8f13afd402a"
+    ],
     "references": [],
     "releases": [
       {
