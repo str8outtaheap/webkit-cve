@@ -38,7 +38,7 @@
 | CVE-2011-2341 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 5.0](https://support.apple.com/en-us/103815) |
 | CVE-2011-2339 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 5.0](https://support.apple.com/en-us/103815) |
 | CVE-2011-2338 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 5.0](https://support.apple.com/en-us/103815) |
-| CVE-2011-1797 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 5.0](https://support.apple.com/en-us/103815) |
+| CVE-2011-1797 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | [b02028547d24](https://github.com/WebKit/WebKit/commit/b02028547d241d413c49da975fd65979934f320b)<br>[cb5c21cf1aab](https://github.com/WebKit/WebKit/commit/cb5c21cf1aab0732c54bc0e892b62255c2d15ef2) | [iOS 5.0](https://support.apple.com/en-us/103815) |
 | CVE-2011-1774 | — | Visiting a maliciously crafted website may lead to arbitrary code execution | no | — | [iOS 5.0](https://support.apple.com/en-us/103815) |
 | CVE-2011-1462 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 5.0](https://support.apple.com/en-us/103815) |
 | CVE-2011-1457 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 5.0](https://support.apple.com/en-us/103815) |

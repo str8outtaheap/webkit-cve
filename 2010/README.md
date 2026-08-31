@@ -16,7 +16,7 @@
 | CVE-2010-3817 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
 | CVE-2010-3816 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
 | CVE-2010-3813 | — | WebKit may perform DNS prefetching even when it is disabled | no | [0b7fae06c6aa](https://github.com/WebKit/WebKit/commit/0b7fae06c6aafa8c3e5758f6155c8f9c3223b71a) | [iOS 4.2](https://support.apple.com/en-us/103588) |
-| CVE-2010-3812 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
+| CVE-2010-3812 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | [0cd11e374704](https://github.com/WebKit/WebKit/commit/0cd11e3747047a48a68e53076d4194a75bc5f086) | [iOS 4.2](https://support.apple.com/en-us/103588) |
 | CVE-2010-3811 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
 | CVE-2010-3810 | — | A maliciously crafted website may be able to spoof the address in the location bar or add arbitrary locations to the history | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
 | CVE-2010-3809 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
@@ -32,7 +32,7 @@
 | CVE-2010-1814 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.1](https://support.apple.com/en-us/103587) |
 | CVE-2010-1813 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.1](https://support.apple.com/en-us/103587) |
 | CVE-2010-1812 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.1](https://support.apple.com/en-us/103587) |
-| CVE-2010-1807 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
+| CVE-2010-1807 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | [d864f336a86f](https://github.com/WebKit/WebKit/commit/d864f336a86fd13d437db7f7932b81f63f9da416) | [iOS 4.2](https://support.apple.com/en-us/103588) |
 | CVE-2010-1806 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.2](https://support.apple.com/en-us/103588) |
 | CVE-2010-1793 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.1](https://support.apple.com/en-us/103587) |
 | CVE-2010-1791 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.1](https://support.apple.com/en-us/103587) |
@@ -99,6 +99,6 @@
 | CVE-2010-0047 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.0](https://support.apple.com/en-us/104167) |
 | CVE-2010-0046 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.0](https://support.apple.com/en-us/104167) |
 | CVE-2009-3384 | — | Accessing a maliciously crafted FTP server could result in an unexpected application termination, information disclosure, or arbitrary code execution | no | — | [iOS 3.1.3](https://support.apple.com/en-us/104157) |
-| CVE-2009-2841 | — | Mail may load remote audio and video content when remote image loading is disabled | no | — | [iOS 3.1.3](https://support.apple.com/en-us/104157) |
+| CVE-2009-2841 | — | Mail may load remote audio and video content when remote image loading is disabled | no | [WebKit r49480](https://trac.webkit.org/changeset/49480/webkit) | [iOS 3.1.3](https://support.apple.com/en-us/104157) |
 | CVE-2009-2816 | — | Visiting a maliciously crafted website may result in unexpected actions on other websites | no | — | [iOS 4.0](https://support.apple.com/en-us/104167) |
 | CVE-2009-2195 | — | Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution | no | — | [iOS 4.0](https://support.apple.com/en-us/104167) |

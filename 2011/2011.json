@@ -567,7 +567,10 @@
       "Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/b02028547d241d413c49da975fd65979934f320b",
+      "https://github.com/WebKit/WebKit/commit/cb5c21cf1aab0732c54bc0e892b62255c2d15ef2"
+    ],
     "references": [
       "https://trac.webkit.org/changeset/85355",
       "https://trac.webkit.org/changeset/86781"
